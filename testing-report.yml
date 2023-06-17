@@ -42,3 +42,15 @@
 - summary: |
     Проверка мобильной версии сайта
   status: fail
+
+- summary: |
+    Проверка удобства использования сайта
+  status: fail
+
+- summary: |
+    Проверка индикатора корзины
+  status: pass
+
+- summary: |
+    Проверка фильтра In Stock
+  status: pass

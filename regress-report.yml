@@ -1,15 +1,7 @@
 ---
 test-cases:
   - summary: |
-      Проверка поиска по ключевому слову
-    status: pass
-  
-  - summary: |
-      Проверка поиска по категории
-    status: pass
-    
-  - summary: |
-      Проверка фильтра диапазона цены
+      Проверка фильтров
     status: fail
     
   - summary: |
@@ -51,10 +43,6 @@ test-cases:
   - summary: |
       Проверка индикатора корзины
     status: pass
-    
-  - summary: |
-      Проверка фильтра In Stock
-    status: fail
     
 bugreports:
   - summary: |

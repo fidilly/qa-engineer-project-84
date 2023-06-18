@@ -4,7 +4,7 @@
   status: fail
 
 - summary: |
-    Проверка отмены фильтров
+    Проверка отмены фильтра категории
   status: fail
     
 - summary: |

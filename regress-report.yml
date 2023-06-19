@@ -45,7 +45,6 @@ test-cases:
   status: fail
      
 bugreports:
-  ---
 - summary: |
     Не отображаются товары с учетом скидки в фильтре по цене
   environment: |
